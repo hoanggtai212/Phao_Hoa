@@ -571,7 +571,6 @@ const WISH_MESSAGES = [
 	"Chúc chúng ta yêu thương nhau nhiều hơn 💖",
 	"Gia đình luôn ấm áp và đủ đầy ✨",
 	"Chúc em mãi xinh đẹp và vui vẻ 🌷",
-	"Chúc anh luôn thành công và mạnh mẽ 💪",
 	"Năm mới yêu thương luôn đong đầy 🎉",
 ];
 
