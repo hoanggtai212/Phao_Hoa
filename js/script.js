@@ -563,6 +563,16 @@ const WISH_MESSAGES = [
 	"Chúc công việc thuận lợi, thăng tiến không ngừng 🚀",
 	"Chúc em luôn mỉm cười và yêu đời mỗi ngày 😊",
 	"Chúc em gặp nhiều may mắn và niềm vui 🎉",
+	"Chúc tình yêu chúng ta luôn bền lâu 💕",
+	"Chúc em và anh mãi mãi bên nhau ❤️",
+	"Gia đình em luôn khỏe mạnh, hạnh phúc 🏡",
+	"Ba mẹ luôn bình an mỗi ngày 🌸",
+	"Chúc nhà mình năm mới đầy tiếng cười 😊",
+	"Chúc chúng ta yêu thương nhau nhiều hơn 💖",
+	"Gia đình luôn ấm áp và đủ đầy ✨",
+	"Chúc em mãi xinh đẹp và vui vẻ 🌷",
+	"Chúc anh luôn thành công và mạnh mẽ 💪",
+	"Năm mới yêu thương luôn đong đầy 🎉",
 ];
 
 // Sinh 1 câu chúc bay lên
