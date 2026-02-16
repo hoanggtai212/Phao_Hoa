@@ -853,7 +853,7 @@ function updateGlobalWishTransform() {
 	
 	// Dùng RAF để tối ưu performance
 	rafId = requestAnimationFrame(() => {
-		appNodes.wishesLayer.style.transform = `perspective(1000px) rotateX(${globalWishRotationX}deg) rotateY(${globalWishRotationY}deg) scale(${globalWishScale})`;
+		appNodes.wishesLayer.style.transform = `scale(${globalWishScale})`;
 		rafId = null;
 	});
 }
